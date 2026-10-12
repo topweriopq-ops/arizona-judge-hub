@@ -1,0 +1,26 @@
+<escape>{
+"project": "Arizona Judge Hub",
+"version": 1,
+"servers": [
+{
+"id": "phoenix",
+"name": "Phoenix",
+"laws_url": ""
+},
+{
+"id": "tucson",
+"name": "Tucson",
+"laws_url": ""
+},
+{
+"id": "scottsdale",
+"name": "Scottsdale",
+"laws_url": ""
+},
+{
+"id": "prescott",
+"name": "Prescott",
+"laws_url": ""
+}
+]
+}</escape>
