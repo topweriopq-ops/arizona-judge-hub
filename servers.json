@@ -1,26 +1,39 @@
-<escape>{
-"project": "Arizona Judge Hub",
-"version": 1,
-"servers": [
 {
-"id": "phoenix",
-"name": "Phoenix",
-"laws_url": ""
-},
-{
-"id": "tucson",
-"name": "Tucson",
-"laws_url": ""
-},
-{
-"id": "scottsdale",
-"name": "Scottsdale",
-"laws_url": ""
-},
-{
-"id": "prescott",
-"name": "Prescott",
-"laws_url": ""
+  "project": "Arizona Judge Hub",
+  "version": 2,
+  "servers": [
+    {"id": "phoenix", "name": "Phoenix", "laws_url": ""},
+    {"id": "tucson", "name": "Tucson", "laws_url": ""},
+    {"id": "scottdale", "name": "Scottdale", "laws_url": ""},
+    {"id": "chandler", "name": "Chandler", "laws_url": ""},
+    {"id": "brainburg", "name": "Brainburg", "laws_url": ""},
+    {"id": "saint-rose", "name": "Saint-Rose", "laws_url": ""},
+    {"id": "mesa", "name": "Mesa", "laws_url": ""},
+    {"id": "red-rock", "name": "Red-Rock", "laws_url": ""},
+    {"id": "yuma", "name": "Yuma", "laws_url": ""},
+    {"id": "surprise", "name": "Surprise", "laws_url": ""},
+    {"id": "prescott", "name": "Prescott", "laws_url": ""},
+    {"id": "glendale", "name": "Glendale", "laws_url": ""},
+    {"id": "kingman", "name": "Kingman", "laws_url": ""},
+    {"id": "winslow", "name": "Winslow", "laws_url": ""},
+    {"id": "payson", "name": "Payson", "laws_url": ""},
+    {"id": "gilbert", "name": "Gilbert", "laws_url": ""},
+    {"id": "show-low", "name": "Show Low", "laws_url": ""},
+    {"id": "casa-grande", "name": "Casa-Grande", "laws_url": ""},
+    {"id": "page", "name": "Page", "laws_url": ""},
+    {"id": "sun-city", "name": "Sun-City", "laws_url": ""},
+    {"id": "queen-creek", "name": "Queen-Creek", "laws_url": ""},
+    {"id": "sedona", "name": "Sedona", "laws_url": ""},
+    {"id": "holiday", "name": "Holiday", "laws_url": ""},
+    {"id": "wednesday", "name": "Wednesday", "laws_url": ""},
+    {"id": "yava", "name": "Yava", "laws_url": ""},
+    {"id": "faraway", "name": "Faraway", "laws_url": ""},
+    {"id": "bumble-bee", "name": "Bumble Bee", "laws_url": ""},
+    {"id": "christmas", "name": "Christmas", "laws_url": ""},
+    {"id": "mirage", "name": "Mirage", "laws_url": ""},
+    {"id": "drake", "name": "Drake", "laws_url": ""},
+    {"id": "love", "name": "Love", "laws_url": ""},
+    {"id": "space", "name": "Space", "laws_url": ""},
+    {"id": "home", "name": "Home", "laws_url": ""}
+  ]
 }
-]
-}</escape>
