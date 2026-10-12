@@ -1,16 +1,17 @@
-
+{
   "project": "Arizona Judge Hub",
   "version": 3,
   "servers": [
     {
       "id": "phoenix",
       "name": "Phoenix",
-      "laws_url": "https://forum.arizona-rp.com/threads/10257782/"
-      "laws_url": "https://forum.arizona-rp.com/threads/10257782/post-55635541" ,
+      "laws_url": "https://forum.arizona-rp.com/threads/10257782/",
       "laws_sources": [
         {
           "type": "forum",
           "url": "https://forum.arizona-rp.com/threads/10257782/"
+           {"type": "google_docs", 
+          "url": "https://docs.google.com/document/d/1g6E3v9fSXUTmLMkaQRwCvvNpDai_10g0kUXa9cB6ADg/edit?usp=sharing"}
         }
       ]
     },
