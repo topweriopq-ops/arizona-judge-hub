@@ -3,7 +3,7 @@
   "version": 2,
   "servers": [
     
-{"id": "phoenix", "name": "Phoenix", "laws_url": "https://forum.arizona-rp.com/threads/10257782/"}
+{"id": "phoenix", "name": "Phoenix", "laws_url": "https://forum.arizona-rp.com/threads/10257782/"},
     {"id": "tucson", "name": "Tucson", "laws_url": ""},
     {"id": "scottdale", "name": "Scottdale", "laws_url": ""},
     {"id": "chandler", "name": "Chandler", "laws_url": ""},
