@@ -1,40 +1,209 @@
-{
+
   "project": "Arizona Judge Hub",
-  "version": 2,
+  "version": 3,
   "servers": [
-    
-{"id": "phoenix", "name": "Phoenix", "laws_url": "https://forum.arizona-rp.com/threads/10257782/"},
-    {"id": "tucson", "name": "Tucson", "laws_url": ""},
-    {"id": "scottsdale", "name": "Scottsdale", "laws_url": ""},
-    {"id": "chandler", "name": "Chandler", "laws_url": ""},
-    {"id": "brainburg", "name": "Brainburg", "laws_url": ""},
-    {"id": "saint-rose", "name": "Saint-Rose", "laws_url": ""},
-    {"id": "mesa", "name": "Mesa", "laws_url": ""},
-    {"id": "red-rock", "name": "Red-Rock", "laws_url": ""},
-    {"id": "yuma", "name": "Yuma", "laws_url": ""},
-    {"id": "surprise", "name": "Surprise", "laws_url": ""},
-    {"id": "prescott", "name": "Prescott", "laws_url": ""},
-    {"id": "glendale", "name": "Glendale", "laws_url": ""},
-    {"id": "kingman", "name": "Kingman", "laws_url": ""},
-    {"id": "winslow", "name": "Winslow", "laws_url": ""},
-    {"id": "payson", "name": "Payson", "laws_url": ""},
-    {"id": "gilbert", "name": "Gilbert", "laws_url": ""},
-    {"id": "show-low", "name": "Show Low", "laws_url": ""},
-    {"id": "casa-grande", "name": "Casa-Grande", "laws_url": ""},
-    {"id": "page", "name": "Page", "laws_url": ""},
-    {"id": "sun-city", "name": "Sun-City", "laws_url": ""},
-    {"id": "queen-creek", "name": "Queen-Creek", "laws_url": ""},
-    {"id": "sedona", "name": "Sedona", "laws_url": ""},
-    {"id": "holiday", "name": "Holiday", "laws_url": ""},
-    {"id": "wednesday", "name": "Wednesday", "laws_url": ""},
-    {"id": "yava", "name": "Yava", "laws_url": ""},
-    {"id": "faraway", "name": "Faraway", "laws_url": ""},
-    {"id": "bumble-bee", "name": "Bumble Bee", "laws_url": ""},
-    {"id": "christmas", "name": "Christmas", "laws_url": ""},
-    {"id": "mirage", "name": "Mirage", "laws_url": ""},
-    {"id": "drake", "name": "Drake", "laws_url": ""},
-    {"id": "love", "name": "Love", "laws_url": ""},
-    {"id": "space", "name": "Space", "laws_url": ""},
-    {"id": "home", "name": "Home", "laws_url": ""}
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "laws_url": "https://forum.arizona-rp.com/threads/10257782/",
+      "laws_sources": [
+        {
+          "type": "forum",
+          "url": "https://forum.arizona-rp.com/threads/10257782/"
+        }
+      ]
+    },
+    {
+      "id": "tucson",
+      "name": "Tucson",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "scottsdale",
+      "name": "Scottsdale",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "chandler",
+      "name": "Chandler",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "brainburg",
+      "name": "Brainburg",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "saint-rose",
+      "name": "Saint-Rose",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "mesa",
+      "name": "Mesa",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "red-rock",
+      "name": "Red-Rock",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "yuma",
+      "name": "Yuma",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "surprise",
+      "name": "Surprise",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "prescott",
+      "name": "Prescott",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "glendale",
+      "name": "Glendale",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "kingman",
+      "name": "Kingman",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "winslow",
+      "name": "Winslow",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "payson",
+      "name": "Payson",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "gilbert",
+      "name": "Gilbert",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "show-low",
+      "name": "Show Low",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "casa-grande",
+      "name": "Casa-Grande",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "page",
+      "name": "Page",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "sun-city",
+      "name": "Sun-City",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "queen-creek",
+      "name": "Queen-Creek",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "sedona",
+      "name": "Sedona",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "holiday",
+      "name": "Holiday",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "wednesday",
+      "name": "Wednesday",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "yava",
+      "name": "Yava",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "faraway",
+      "name": "Faraway",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "bumble-bee",
+      "name": "Bumble Bee",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "mirage",
+      "name": "Mirage",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "drake",
+      "name": "Drake",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "laws_url": "",
+      "laws_sources": []
+    },
+    {
+      "id": "home",
+      "name": "Home",
+      "laws_url": "",
+      "laws_sources": []
+    }
   ]
 }
